@@ -1,0 +1,18 @@
+.wrapping_things {
+  display: flex;
+}
+
+.name_of_city {
+  padding: 10px 100px 10px 70px;
+}
+
+.weather_temp {
+  padding: 10px 100px 0 10px;
+  flex-direction: row;
+  line-height: 10px;
+}
+
+.state_of_weather {
+  line-height: 10px;
+  padding: 0 50px 0 10px;
+}

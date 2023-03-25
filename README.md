@@ -1,2 +1,1 @@
-# Forecast_on_screen
-forecast-weather created using Java Script (data from API)
+# forecast-weather created using JS / HTML5/CSS3/REST_API
